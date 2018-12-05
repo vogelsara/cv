@@ -1,6 +1,6 @@
 # My CV
 
-I created my CV as a school assignment.
+I created my CV as a school assignment. My goal was to make it responsive, but as plain and simple as possible while maintaining good design.
 
 [Check it out here!](https://vogelsara.github.io/cv/.)
 
